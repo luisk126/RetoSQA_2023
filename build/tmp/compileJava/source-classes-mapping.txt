@@ -1,0 +1,10 @@
+co/sqasa/userinterfaces/CategoriaAmorPageUi.java
+ co.sqasa.userinterfaces.CategoriaAmorPageUi
+co/sqasa/task/AgregarProductoUnoTask.java
+ co.sqasa.task.AgregarProductoUnoTask
+co/sqasa/userinterfaces/HomaPageUi.java
+ co.sqasa.userinterfaces.HomaPageUi
+co/sqasa/questions/ValidaModuloAmorQuestions.java
+ co.sqasa.questions.ValidaModuloAmorQuestions
+co/sqasa/task/SeleccionaCategoriaAmorTask.java
+ co.sqasa.task.SeleccionaCategoriaAmorTask
